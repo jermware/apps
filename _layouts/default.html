@@ -10,13 +10,17 @@
         margin: 40px auto;
         padding: 0 20px;
       }
-      h5 {
-        font-size: var(--text-title-size-medium, 1.5em);
-        font-weight: 600;
-      }
     </style>
   </head>
   <body class="markdown-body">
     {{ content }}
+    <script>
+      document.querySelectorAll('h5').forEach(el => {
+        const h2 = document.createElement('h2');
+        h2.innerHTML = el.innerHTML;
+        h2.id = el.id;
+        el.replaceWith(h2);
+      });
+    </script>
   </body>
 </html>
