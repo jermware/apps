@@ -51,7 +51,7 @@ Every change you make — whether it's moving a page, editing the table of conte
 [![download](/images/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/app/gjpdfs/id6760037275)
 
 <br>
-## Privacy Policy {#privacy}
+##### Privacy Policy {#privacy}
 
 The policy applies to all information collected on **gjPDFs'** website and our apps for Mac and any other devices and platforms.
 
