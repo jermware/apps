@@ -16,10 +16,10 @@
     {{ content }}
     <script>
       document.querySelectorAll('h5').forEach(el => {
-        const h2 = document.createElement('h2');
-        h2.innerHTML = el.innerHTML;
-        h2.id = el.id;
-        el.replaceWith(h2);
+        const h3 = document.createElement('h3');
+        h3.innerHTML = el.innerHTML;
+        h3.id = el.id;
+        el.replaceWith(h3);
       });
     </script>
   </body>
