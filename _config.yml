@@ -2,4 +2,4 @@ defaults:
   - scope:
       path: "*.md"
     values:
-      layout: "default"
+      layout: "xdefault"
