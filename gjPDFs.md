@@ -3,7 +3,8 @@ date: 2026-03-05 18:57
 author: "Gavin Jerman"
 subtitle: My second macOS app.
 tags: gjpdfs, macos, app store
-layout: ProjectPost
+layout: default
+xlayout: ProjectPost
 ---
 
 # gjPDFs
