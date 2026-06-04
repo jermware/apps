@@ -1,5 +1,1 @@
-defaults:
-  - scope:
-      path: "*.md"
-    values:
-      layout: "xdefault"
+# nothing needed here?
